@@ -1,2 +1,2 @@
-# Calculo de Macas
-Calcular o valor final das maças .
+# Calculo de Maçãs
+Calcular o valor final das maçãs .
